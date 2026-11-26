@@ -82,8 +82,19 @@ python set2/p8/p8_inheritance.py
 
 ## Program Screenshots
 
-Screenshots will be added after each activity has been
-developed and successfully tested.
+### P1 - Student Grade Calculator
+
+**Passing Grades**
+
+![Passing Grades](set1/p1/screenshots/01-passed.png)
+
+**Failing Grades**
+
+![Failing Grades](set1/p1/screenshots/02-failed.png)
+
+**Input Validation**
+
+![Input Validation](set1/p1/screenshots/03-validation.png)
 
 ## Technologies Used
 
@@ -91,7 +102,7 @@ developed and successfully tested.
 - Visual Studio Code
 - Git
 - GitHub
-
+3
 ## Learning Reference
 
 - [Python Full Course for Free - Bro Code](https://www.youtube.com/watch?v=ix9cRaBkVe0)
