@@ -27,8 +27,8 @@ recursion, and object-oriented programming.
 
 | Activity | Description | Folder |
 |---|---|---|
-| P1 - Student Grade Calculator | Calculate and evaluate student grades using functions. | Pending |
-| P2 - Custom Module | Organize reusable grade calculation functions into a custom module. | Pending |
+| P1 - Student Grade Calculator | Calculate and evaluate student grades using functions. | [View Activity](set1/p1/) |
+| P2 - Custom Module | Organize reusable grade calculation functions into a custom module. | [View Activity](set1/p2/) |
 | P3 - Student Record Manager | Manage student names using lists and sets. | Pending |
 | P4 - Safe Menu Program | Handle invalid inputs and runtime errors using exceptions. | Pending |
 
