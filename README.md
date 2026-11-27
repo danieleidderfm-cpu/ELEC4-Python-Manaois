@@ -29,7 +29,7 @@ recursion, and object-oriented programming.
 |---|---|---|
 | P1 - Student Grade Calculator | Calculate and evaluate student grades using functions. | [View Activity](set1/p1/) |
 | P2 - Custom Module | Organize reusable grade calculation functions into a custom module. | [View Activity](set1/p2/) |
-| P3 - Student Record Manager | Manage student names using lists and sets. | Pending |
+| P3 - Student Record Manager | Manage student records using lists and sets with duplicate prevention and partial searching. | [View Activity](set1/p3/) |
 | P4 - Safe Menu Program | Handle invalid inputs and runtime errors using exceptions. | Pending |
 
 ## Set 2 - Advanced Python
